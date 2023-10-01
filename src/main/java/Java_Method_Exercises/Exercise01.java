@@ -53,4 +53,5 @@ The smallest value is 25.0
     public static double smallestNumber2(int firstNumber, int secondNumber, int thirdNumber) {
         return Math.min(Math.min(firstNumber, secondNumber), thirdNumber);
     }
+
 }
