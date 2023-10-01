@@ -15,6 +15,7 @@ public class Exercise02 {
 
     The average value is 45.0
      */
+
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
